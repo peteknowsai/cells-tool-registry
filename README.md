@@ -7,6 +7,18 @@ A public registry of CLI tools created by the Tool Germinator cells. Each tool i
 | Tool | Description | API/Service | Requirements | Install |
 |------|-------------|-------------|--------------|---------|
 | current_time | Display current time in various formats and timezones | Python stdlib | None | `./install.sh current_time` |
+| airtable | Airtable CLI | Various | See README | `./install.sh airtable` |
+| cal-com | Cal.com CLI Tool | Various | See README | `./install.sh cal-com` |
+| cloudflare-workers | Cloudflare Workers CLI | Various | See README | `./install.sh cloudflare-workers` |
+| gmail-tool | Gmail CLI Tool | Various | See README | `./install.sh gmail-tool` |
+| google-calendar | Google Calendar CLI | 2. Enable Google Calendar API | See README | `./install.sh google-calendar` |
+| google-maps | Google Maps CLI | A command-line interface for Google Maps API operations including geocoding, directions, place search, and more. | See README | `./install.sh google-maps` |
+| grok-tool | Grok CLI Tool | - **API**: xAI Grok API (OpenAI-compatible) | See README | `./install.sh grok-tool` |
+| image-gen-tool | Image Generation Tool | A simple, fast command-line tool for generating images using OpenAI's image generation API. | See README | `./install.sh image-gen-tool` |
+| raycast-cli | Raycast CLI | Various | See README | `./install.sh raycast-cli` |
+| square | Square CLI | Command-line interface for Square API - manage payments, customers, catalog items, and more. | See README | `./install.sh square` |
+| time-tool | Current Time Tool | Various | See README | `./install.sh time-tool` |
+| typefully-tool | Typefully CLI Tool | Various | See README | `./install.sh typefully-tool` |
 
 ## 📦 Installation
 
