@@ -18,7 +18,6 @@ A public registry of CLI tools created by the Tool Germinator cells. Each tool i
 | image-gen-tool | Image Generation Tool | A simple, fast command-line tool for generating images using OpenAI's image generation API. | See README | `./install.sh image-gen-tool` |
 | raycast-cli | Raycast CLI | Various | See README | `./install.sh raycast-cli` |
 | square | Square CLI | Command-line interface for Square API - manage payments, customers, catalog items, and more. | See README | `./install.sh square` |
-| test-publish | A minimal test tool to verify the publishing workflow. | Various | See README | `./install.sh test-publish` |
 | time-tool | Current Time Tool | Various | See README | `./install.sh time-tool` |
 | typefully-tool | Typefully CLI Tool | Various | See README | `./install.sh typefully-tool` |
 
