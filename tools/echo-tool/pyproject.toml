@@ -1,0 +1,17 @@
+[project]
+name = "echo-tool"
+version = "1.0.0"
+description = "A versatile command-line echo utility with formatting options"
+authors = [
+    {name = "Tool Germinator", email = "germinator@cells.ai"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+[project.scripts]
+echo-tool = "echo_tool:main"
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"

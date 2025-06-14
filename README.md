@@ -8,6 +8,7 @@ A public registry of CLI tools created by the Tool Germinator cells. Each tool i
 |------|-------------|-------------|--------------|---------|
 | current_time | Display current time in various formats and timezones | Python stdlib | None | `./install.sh current_time` |
 | airtable | Airtable CLI | Various | See README | `./install.sh airtable` |
+| echo-tool | Echo text with various formatting options and transformations | None | None | `./install.sh echo-tool` |
 | cal-com | Cal.com CLI Tool | Various | See README | `./install.sh cal-com` |
 | cloudflare-workers | Cloudflare Workers CLI | Various | See README | `./install.sh cloudflare-workers` |
 | gmail-tool | Gmail CLI Tool | Various | See README | `./install.sh gmail-tool` |
