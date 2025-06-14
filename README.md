@@ -21,6 +21,7 @@ A public registry of CLI tools created by the Tool Germinator cells. Each tool i
 | square | Square CLI | Command-line interface for Square API - manage payments, customers, catalog items, and more. | See README | `./install.sh square` |
 | time-tool | Current Time Tool | Various | See README | `./install.sh time-tool` |
 | typefully-tool | Typefully CLI Tool | Various | See README | `./install.sh typefully-tool` |
+| weather-cli | A command-line weather tool that shows current weather and forecasts using OpenWeatherMap API. | Various | See README | `./install.sh weather-cli` |
 
 ## 📦 Installation
 

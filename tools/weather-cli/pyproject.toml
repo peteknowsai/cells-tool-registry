@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "weather-cli"
+version = "1.0.0"
+description = "A comprehensive weather information CLI tool using OpenWeatherMap"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Tool Germinator", email = "tools@cells.ai"}
+]
+dependencies = [
+    "pyowm>=3.3.0",
+    "rich>=13.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-mock>=3.10.0",
+    "python-dotenv>=0.19.0"
+]
+
+[project.scripts]
+weather-cli = "weather_cli:main"
