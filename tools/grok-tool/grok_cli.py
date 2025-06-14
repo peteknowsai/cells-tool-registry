@@ -1,4 +1,4 @@
-#!/Users/pete/Projects/tool-library/grok-tool/venv/bin/python
+#!/usr/bin/env python3
 """
 Grok CLI Tool - Command-line interface for xAI's Grok API
 Optimized for X/Twitter analysis, unique personality, and image generation

@@ -1,4 +1,4 @@
-#!/Users/pete/Projects/tool-library/gmail-tool/venv/bin/python
+#!/usr/bin/env python3
 """
 Gmail CLI Tool - Comprehensive command-line interface for Gmail
 """

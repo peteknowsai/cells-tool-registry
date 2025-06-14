@@ -1,4 +1,4 @@
-#!/Users/pete/Projects/tool-library/gmail-tool/venv/bin/python
+#!/usr/bin/env python3
 """
 Gmail CLI Tool - Fixed version using requests instead of httplib2
 """

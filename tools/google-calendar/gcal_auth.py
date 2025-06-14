@@ -1,4 +1,4 @@
-#!/Users/pete/Projects/tool-library/google-calendar/venv/bin/python
+#!/usr/bin/env python3
 """
 Google Calendar CLI Authentication Helper
 """

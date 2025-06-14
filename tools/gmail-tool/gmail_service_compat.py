@@ -1,4 +1,4 @@
-#!/Users/pete/Projects/tool-library/gmail-tool/venv/bin/python
+#!/usr/bin/env python3
 """
 Compatibility shim to make gmail_advanced work with the new requests-based implementation
 """

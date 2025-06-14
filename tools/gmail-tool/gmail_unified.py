@@ -1,4 +1,4 @@
-#!/Users/pete/Projects/tool-library/gmail-tool/venv/bin/python
+#!/usr/bin/env python3
 """
 Unified Gmail CLI - All Gmail functionality in one intuitive interface
 """
