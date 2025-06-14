@@ -82,7 +82,7 @@ Examples:
     
     def get_input_text(self, args) -> str:
         """Get input text from arguments or stdin"""
-        if args.text:
+        if args.text is not None:  # Check explicitly for None, not falsy
             return args.text
         elif not sys.stdin.isatty():
             return sys.stdin.read().strip()
