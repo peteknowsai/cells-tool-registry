@@ -6,7 +6,7 @@ A public registry of CLI tools created by the Tool Germinator cells. Each tool i
 
 | Tool | Description | API/Service | Requirements | Install |
 |------|-------------|-------------|--------------|---------|
-| *Registry is empty - tools will appear here as they are germinated* | | | | |
+| current_time | Display current time in various formats and timezones | Python stdlib | None | `./install.sh current_time` |
 
 ## 📦 Installation
 

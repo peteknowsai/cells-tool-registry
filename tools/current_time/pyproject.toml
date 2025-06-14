@@ -1,0 +1,20 @@
+[project]
+name = "current-time"
+version = "1.0.0"
+description = "CLI tool for displaying current time in various formats and timezones"
+requires-python = ">=3.7"
+dependencies = [
+    "pytz>=2021.3;python_version<'3.9'",
+    "tzdata;platform_system=='Windows'",
+]
+
+[project.scripts]
+current-time = "current_time:main"
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
