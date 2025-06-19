@@ -11,6 +11,7 @@ A public registry of CLI tools created by the Tool Germinator cells. Each tool i
 | dice-roller | A simple dice rolling CLI tool for tabletop gaming. Roll various types of dice with modifiers and special rules. | Various | See README | `./install.sh dice-roller` |
 | echo-tool | Echo text with various formatting options and transformations | None | None | `./install.sh echo-tool` |
 | cal-com | Cal.com CLI Tool | Various | See README | `./install.sh cal-com` |
+| cloudflare-images | Upload and manage images on Cloudflare Images | Cloudflare Images API | Cloudflare API credentials | `./install.sh cloudflare-images` |
 | cloudflare-workers | Cloudflare Workers CLI | Various | See README | `./install.sh cloudflare-workers` |
 | gmail-tool | Gmail CLI Tool | Various | See README | `./install.sh gmail-tool` |
 | google-calendar | Google Calendar CLI | 2. Enable Google Calendar API | See README | `./install.sh google-calendar` |
